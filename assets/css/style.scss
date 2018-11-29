@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// .page-header {
+//     background: #256982;
+//     background: -moz-linear-gradient(left, #9fc3cf, #256982);
+//     background: -webkit-linear-gradient(left, #9fc3cf,#256982);
+//     background: linear-gradient(to right, #9fc3cf,#256982);
+//     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#256982',GradientType=1 ); /* IE6-9 */
+// }
+
+.page-link {
+    padding: 10px;
+}
+
+.project-name-wrapper {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 0 10px 0 10px;
+    border-radius: 10px;
+}
+
+.project-name-part1 {
+    color: #d10808;
+}
+
+.project-name-part2 {
+    color: #045ab2;
+}
+
+.news-entry {
+    .news-date {
+        margin-top: -20px;
+        font-size: 0.9rem;
+    }
+}
