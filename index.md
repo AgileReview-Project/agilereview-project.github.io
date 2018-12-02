@@ -2,6 +2,8 @@
 title: Home
 ---
 
+![AgileReview Screenshot](./assets/img/Screenshot_full.png)
+
 # Easy to learn!
 Learn the basics in less than 10 minutes using our [Quickstart Document](./assets/quickstart.pdf) or the Introduction Screencast. The Screencast will show you how to manage reviews, comments and replies and gives you a general overview on the AgileReview plugin.
 
