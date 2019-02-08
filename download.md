@@ -9,28 +9,28 @@ Since Indigo there is a new feature for installing plug-ins using the eclipse ma
 
 ## Stable
 ```
-http://www.agilereview.org/update
+http://update.agilereview.org/update/
 ```
 
 ## Continuous Builds
 ```
-http://www.agilereview.org/development_update
+http://update.agilereview.org/development_update
 ```
 
 ## Update Sites (v1.0.0) – not released / under developmen
 ### AgileReview Eclipse-Plugin (p2 Repository)
 ```
-http://www.agilereview.org/p2/1.0/development/updatesite/
+http://update.agilereview.org/p2/1.0/development/updatesite/
 ```
 
 ### CoreLib (m2 Repository)
 ```
-http://www.agilereview.org/m2/snapshots/
+http://update.agilereview.org/m2/snapshots/
 ```
 
 ### AgileReview Findbugs Demo (p2 Repository)
 ```
-http://www.agilereview.org/p2/findbugs/updatesite/
+http://update.agilereview.org/p2/findbugs/updatesite/
 ```
 
 
