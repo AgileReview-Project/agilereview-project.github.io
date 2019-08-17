@@ -15,7 +15,7 @@ If you do not agree, you have to send an e-mail in order to disagree the publica
         <input type="hidden" name="cmd" value="_donations">
         <input type="hidden" name="bn" value="TipsandTricks_SP">
         <input type="hidden" name="business" value="maltebrunnlieb@web.de">
-        <input type="hidden" name="return" value="http://www.agilereview.org/thanku/">
+        <input type="hidden" name="return" value="https://agilereview.org/thanku.html">
         <input type="hidden" name="item_number" value="AgileReview">
         <input type="hidden" name="rm" value="0">
         <input type="hidden" name="currency_code" value="EUR">
