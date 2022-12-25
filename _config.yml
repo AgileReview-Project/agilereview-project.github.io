@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: AgileReview
 description: |
   AgileReview is an Eclipse plugin that lets you easily conduct code reviews.
-url: http://www.agilereview.org
+url: https://www.agilereview.org
 
 show_downloads: true
 

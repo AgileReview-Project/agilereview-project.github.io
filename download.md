@@ -3,34 +3,34 @@ title: Download
 ---
 
 # Marketplace QuickInstall
-Since Indigo there is a new feature for installing plug-ins using the eclipse marketplace: <a title="Drag and drop into a running Eclipse Indigo workspace to install AgileReview" href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=31498"> <img src="http://marketplace.eclipse.org/misc/installbutton.png" alt=""></a>
+Since Indigo there is a new feature for installing plug-ins using the eclipse marketplace: <a title="Drag and drop into a running Eclipse Indigo workspace to install AgileReview" href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=31498"> <img src="https://marketplace.eclipse.org/misc/installbutton.png" alt=""></a>
 
 # Update Sites (v0.9.x)
 
 ## Stable
 ```
-http://update.agilereview.org/update/
+https://update.agilereview.org/update/
 ```
 
 ## Continuous Builds
 ```
-http://update.agilereview.org/development_update
+https://update.agilereview.org/development_update
 ```
 
 ## Update Sites (v1.0.0) – not released / under developmen
 ### AgileReview Eclipse-Plugin (p2 Repository)
 ```
-http://update.agilereview.org/p2/1.0/development/updatesite/
+https://update.agilereview.org/p2/1.0/development/updatesite/
 ```
 
 ### CoreLib (m2 Repository)
 ```
-http://update.agilereview.org/m2/snapshots/
+https://update.agilereview.org/m2/snapshots/
 ```
 
 ### AgileReview Findbugs Demo (p2 Repository)
 ```
-http://update.agilereview.org/p2/findbugs/updatesite/
+https://update.agilereview.org/p2/findbugs/updatesite/
 ```
 
 
